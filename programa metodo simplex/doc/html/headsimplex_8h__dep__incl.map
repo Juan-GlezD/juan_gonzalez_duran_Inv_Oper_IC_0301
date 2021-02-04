@@ -1,0 +1,5 @@
+<map id="headsimplex.h" name="headsimplex.h">
+<area shape="rect" id="node1" title="Esta es la cabecera que contiene el prototipo de funciones del programa Y contiene todas las varibles..." alt="" coords="91,5,197,32"/>
+<area shape="rect" id="node2" href="$funcionessimplex_8c.html" title="cuerpo(todas las funciones del programa)" alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node3" href="$mainsimplex_8c.html" title="fichero principal" alt="" coords="163,80,269,107"/>
+</map>
